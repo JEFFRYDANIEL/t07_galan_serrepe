@@ -12,8 +12,8 @@ promedio_invalido=(promedio<0 or promedio>20)
 # while
 while (promedio_invalido == True):
     nota1=float(input("pedir la nota1:"))
-    nota2=float(input("oedir la nota2:"))
-    nota3 = float(input("oedir la nota3:"))
+    nota2=float(input("pedir la nota2:"))
+    nota3 = float(input("pedir la nota3:"))
     promedio=(nota1+nota2+nota3)/3
     promedio_invalido = (promedio < 0 or promedio > 20)
 #fin_del while

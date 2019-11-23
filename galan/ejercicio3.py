@@ -1,6 +1,7 @@
 import os
 #declarar variables
 color=""
+
 #pedir la variable via argumento
 color=os.sys.argv[1]
 color_invalido=True

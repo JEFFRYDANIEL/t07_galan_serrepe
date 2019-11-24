@@ -1,14 +1,9 @@
-# Sumar los x primeros numeros decimales
+#Imprimir la multiplicacion por 15 de los x primeros numeros
 import os
-i=0.0
-suma=0.0
-x=float(os.sys.argv[1])
-while(i<=x):
-    print(1)
-    suma += i
-    i += 1
-#fin_while
+x=int(os.sys.argv[1])
 
-print("La suma de los x primeros numeros decimales es:", suma)
+for i in range(x):
+    print((i+1)*15)
+#fn iterador con rango
 
 print("fin del bucle")

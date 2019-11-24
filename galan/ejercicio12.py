@@ -1,4 +1,4 @@
-#Imprimir la multiplicacion por 7 de los 20 primeros numeros
+#Imprimir la multiplicacion por 7 de los x primeros numeros
 import os
 x=int(os.sys.argv[1])
 

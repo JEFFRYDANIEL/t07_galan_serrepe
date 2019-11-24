@@ -6,7 +6,7 @@ x=int(os.sys.argv[1])
 while(i<=x):
     print(i)
     suma += i
-    i += 1
+    i += 2
 #fin_while
 
 print("La suma de los x primeros numeros es:", suma)

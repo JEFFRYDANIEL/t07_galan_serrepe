@@ -1,8 +1,8 @@
 #Imprimir la multiplicacion por 7 de los 20 primeros numeros
 import os
-x=os.sys.argv[1]
+x=int(os.sys.argv[1])
 
-for i in range(20):
+for i in range(x):
     print((i+1)*7)
 #fn iterador con rango
 

@@ -15,6 +15,7 @@ for letra in msg:
         print("Por lo tanto aprobo el curso")
     if letra == "W" :
         print("Nos vemos el siguiente ciclo")
+
 #fin_iterador
 
 print("fin del bucle")

@@ -1,4 +1,4 @@
-python galan/ejercicio1.py 12 12 12
+python galan/ejercicio1.py 12 12 122
 python galan/ejercicio2.py cc
 python galan/ejercicio3.py rs
 python galan/ejercicio4.py 13 12

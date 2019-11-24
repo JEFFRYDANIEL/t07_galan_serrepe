@@ -18,7 +18,6 @@ for letra in msg:
         print("Porfavor")
     if letra == "T":
         print("Gracias")
-
 #fin_iterador
 
 print("fin del bucle")

@@ -15,6 +15,7 @@ for letra in msg:
         print("Te necesito")
     if letra == "D" :
         print("Chau")
+
 #fin_iterador
 
 print("fin del bucle")

@@ -18,6 +18,7 @@ for letra in msg:
         print("El dia de mañana")
     if letra == "X":
         print("Gracias")
+
 #fin_iterador
 
 print("fin del bucle")

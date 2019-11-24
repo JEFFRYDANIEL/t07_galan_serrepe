@@ -1,15 +1,9 @@
-# Sumar los x primeros numeros
+# Imprimir los x primeros numeros sumados con 3
 import os
-i=0
-suma=0
 x=int(os.sys.argv[1])
-while(i<=x):
-    print(i)
-    suma += i
-    i += 2
-#fin_while
 
-print("La suma de los x primeros numeros es:", suma)
+for i in range(x):
+    print((i+1)+3)
+#fin_iterador_en_rango
 
-print("fin del bucle")
-
+print("Fin del bucle")

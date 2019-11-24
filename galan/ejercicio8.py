@@ -15,6 +15,7 @@ for letra in msg:
         print("Sino no sera evaluado")
     if letra == "P" :
         print("Gracias")
+
 #fin_iterador
 
 print("fin del bucle")
